@@ -4,7 +4,7 @@
     "subtitle": "인공지능 피셜 닮은꼴 등장인물",
     "footerText": "&copy; Geon Sim 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/qBsYxLO5i/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/duDzIVm6W/",
     "classDetails": [
         {
             "name": "이카리신지",
@@ -28,7 +28,19 @@
             "name": "이카리겐도",
             "title": "이카리 겐도",
             "explain": "묵묵하고 침착할 것 같으며(?) 중후한 무게감을 지닌 당신, 이카리 겐도이다",
-            "color": "rgba(0, 0, 0, 0)"
+            "color": "rgba(0, 0, 0, 1)"
+        },
+        {
+            "name": "카츠라기미사토",
+            "title": "카츠라기 미사토",
+            "explain": "항상 말이 많고 덤벙대며 쾌활하고 발랄한 당신은 카츠라기 미사토이다. 나이에 비해 행동이 어려보이기도 하지만 오히려 귀엽게 보여지기도 한다. ",
+            "color": "rgba(167, 0, 193, 1)"
+        },
+        {
+            "name": "아카기리츠코",
+            "title": "아카기 리츠코",
+            "explain": "'신지. 네가 타는 거야. 당신은 아카기 리츠코'",
+            "color": "rgba(219, 224, 0, 1)"
         }
     ]
 }
